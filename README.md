@@ -23,7 +23,7 @@ ChainX 三次创世节点大赛总得分排名前 25 的节点将有幸成为 Ch
     - `account_id`: 节点账户公钥。
     - `session_key`: 节点出块公钥。
     - `name`: 注册节点名，注意该名称不可更改。
-    - `url`: 节点网址。
+    - `url`: 节点官网。
     - `about`: 节点关于信息。
 
     将账户地址粘贴到浏览器 https://scan.chainx.org 即可看到账户公钥。
