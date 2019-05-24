@@ -1,5 +1,9 @@
 # ChainX Genesis
 
+ChainX 主网最终创世文件: [chainx_mainnet_genesis](chainx_mainnet_genesis.csv)，创世节点由25个社区节点与4个初始网络引导节点共同构成。
+
+-----------
+
 ChainX 三次创世节点大赛总得分排名前 25 的节点将有幸成为 ChainX 主网的创世节点，最终排名见: [chainx-genesis-competition-final-result.csv](https://gist.github.com/liuchengxu/10db5920590454d7b5fb5feaf2769fc6#file-chainx-genesis-competition-final-result-csv)。
 
 如何提交 ChainX 主网创世节点:
@@ -29,3 +33,4 @@ ChainX 三次创世节点大赛总得分排名前 25 的节点将有幸成为 Ch
     将账户地址粘贴到浏览器 https://scan.chainx.org 即可看到账户公钥。
 
 4. 向本仓库 https://github.com/chainx-org/ChainX-genesis 发起 Pull Request 提交创世节点信息。
+
